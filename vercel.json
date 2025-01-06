@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/pets.py": {
-      "runtime": "vercel-python@0.3.0",  // Trailing comma here
+      "runtime": "vercel-python@0.3.0"
     }
   }
 }
