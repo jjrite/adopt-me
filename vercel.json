@@ -1,8 +1,8 @@
 {
   "version": 2,
   "functions": {
-    "pets.py": {
-      "runtime": "python3.9"
+    "api/pets.py": {
+      "runtime": "vercel-python@0.3.0"  // Example version, check for the latest
     }
   }
 }
